@@ -30,6 +30,4 @@ icon: glyphicon-heart
 
 [纯干货博客](http://www.cosmosshadow.com/) 
 
-Comment below to exchange link with me.  
-
 ---
