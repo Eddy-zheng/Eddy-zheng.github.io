@@ -20,14 +20,12 @@ icon: glyphicon-heart
 
 ### 关于本站   
 
-这个博客主要用于记录一下前端路上的风景。
-
-通过搭建这个静态博客，学到最多的就是 Git 的语法了，现在对 Git 的操作越来越熟练了。  
+通过搭建这个静态博客，学习前端和 markdown。  
 
 ---
 
 #### 友情链接
 
-[纯干货博客](http://www.cosmosshadow.com/) 
+[技术博客](http://www.cosmosshadow.com/) 
 
 ---
