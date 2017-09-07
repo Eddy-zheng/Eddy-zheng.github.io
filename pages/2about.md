@@ -15,6 +15,7 @@ icon: glyphicon-heart
 
 * email：[zhengyzms@163.com](mailto:{{ site.email }})
 * QQ: 719433559
+
 ---
 
 ### 关于本站   
@@ -27,7 +28,7 @@ icon: glyphicon-heart
 
 #### 友情链接
 
-[技术博客](http://www.cosmosshadow.com/) 
+[纯干货博客](http://www.cosmosshadow.com/) 
 
 Comment below to exchange link with me.  
 
