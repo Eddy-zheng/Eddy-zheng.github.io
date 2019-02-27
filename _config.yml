@@ -1,5 +1,5 @@
 # Site settings
-title: YongZhe's blog
+title: HanRan's blog
 email: 71943355q@qq.com
 description: 博客
 # > # this means to ignore newlines until "baseurl:"
@@ -10,7 +10,7 @@ description: 博客
 # baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username:  Eddy-zheng.github.io
+github_username:  Hanran.github.io
 permalink: /:year/:month/:day/:title/
 
 # Build settings
